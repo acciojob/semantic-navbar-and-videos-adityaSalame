@@ -1,2 +1,9 @@
-
+nav{
+	height:50px;
+	background:gold;
+}
+a{
+	font-size:20px;
+	padding:2%
+}
 /* Your CSS Code here. */
